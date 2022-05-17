@@ -13,7 +13,7 @@
 <h2>&#x1F4DD; 專題:野村投信-基金市場輿論分析</h2>
 <ul>
  <li>指導老師: 蔡芸琤_pecutsai@gm.scu.edu.tw</li>
- <li><a href="https://1drv.ms/p/s!AgpG07rp2xXOhg19UpVqEtfhqkbN?e=IosG1d">專案成果說明ppt</a></li>
+ <li><a href="https://1drv.ms/p/s!AgpG07rp2xXOhg19UpVqEtfhqkbN">專案成果說明ppt</a></li>
  
  實作影片(連結)
 
