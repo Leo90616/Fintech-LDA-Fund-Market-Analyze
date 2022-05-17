@@ -1,7 +1,7 @@
 # Fintech-LDA-Fund-Market-Analyze
 <h2>&#x270F; About Me</h2>
  <ul>
-  <li>Name:Chiang-Youzhong </li>
+  <li>Name:Chiang-Youzhong 蔣又中</li>
   <li>Major: Data Science</li>
   <li>School: Soochow University</li>
  </ul>
