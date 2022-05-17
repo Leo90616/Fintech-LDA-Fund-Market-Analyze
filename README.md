@@ -14,4 +14,9 @@
 <ul>
  <li>指導老師: 蔡芸琤_pecutsai@gm.scu.edu.tw</li>
  <li><a href="https://drive.google.com/file/d/1PE5uE8_4QL-MDYs1O2ZuWhWQJBtct3QA/view">專案成果說明ppt</a></li>
+ 
+ 實作影片(連結)
+
+[![實作影片](https://github.com/Leo90616/Photo/blob/main/222.png)](https://youtu.be/0jMKzXt33OQ)
+
 </ul>
